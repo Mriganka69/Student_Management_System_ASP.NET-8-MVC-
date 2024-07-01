@@ -103,4 +103,8 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## Contributors
+- [Mriganka Shekhar Nath](https://github.com/Mriganka69)
+- [Murchana Bharali](https://github.com/Murchana18)
+
 
