@@ -42,7 +42,7 @@ Welcome to the **Student Management System**! This project is designed to manage
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/student-management-system.git](https://github.com/Mriganka69/Student-Management-System-ASP.NET-8-MVC-.git
+    git clone https://github.com/Mriganka69/Student-Management-System-ASP.NET-8-MVC-.git
     ```
 
 2. **Install the Requirements**
