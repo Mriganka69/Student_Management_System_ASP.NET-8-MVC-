@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mriga\\source\\repos\\StudentMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|c:\\users\\mriga\\source\\repos\\studentms\\studentms\\views\\guest\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\guest\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|C:\\Users\\mriga\\source\\repos\\StudentMS\\studentms\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|C:\\Users\\mriga\\source\\repos\\StudentMS\\studentms\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|C:\\Users\\mriga\\source\\repos\\StudentMS\\studentms\\views\\admin\\students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\admin\\students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|C:\\Users\\mriga\\source\\repos\\StudentMS\\studentms\\views\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|C:\\Users\\mriga\\source\\repos\\StudentMS\\studentms\\views\\admin\\teachers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\admin\\teachers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|C:\\Users\\mriga\\source\\repos\\StudentMS\\studentms\\views\\admin\\teachers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\admin\\teachers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|C:\\Users\\mriga\\source\\repos\\StudentMS\\studentms\\views\\admin\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\admin\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|C:\\Users\\mriga\\source\\repos\\StudentMS\\studentms\\models\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3F9DAF-E14E-4E5C-99A2-3DA32A2EFCBB}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\models\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Guest\\Home.aspx",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Guest\\Home.aspx",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Guest\\Home.aspx",
+              "RelativeToolTip": "StudentMS\\Views\\Guest\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-01T18:31:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Login.aspx.cs",
+              "RelativeToolTip": "StudentMS\\Views\\Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:13:47.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Login.aspx",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Login.aspx",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Login.aspx",
+              "RelativeToolTip": "StudentMS\\Views\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-01T15:56:31.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Students.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Admin\\Students.aspx.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Admin\\Students.aspx.cs",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Admin\\Students.aspx.cs",
+              "RelativeToolTip": "StudentMS\\Views\\Admin\\Students.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:22:31.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Students.aspx",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Admin\\Students.aspx",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Admin\\Students.aspx",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Admin\\Students.aspx",
+              "RelativeToolTip": "StudentMS\\Views\\Admin\\Students.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-01T14:18:00.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teachers.aspx",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Admin\\Teachers.aspx",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Admin\\Teachers.aspx",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Admin\\Teachers.aspx",
+              "RelativeToolTip": "StudentMS\\Views\\Admin\\Teachers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-30T16:10:02.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Admin\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Admin\\AdminMaster.Master",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Admin\\AdminMaster.Master",
+              "RelativeToolTip": "StudentMS\\Views\\Admin\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-30T16:16:09.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teachers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Admin\\Teachers.aspx.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Admin\\Teachers.aspx.cs",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Views\\Admin\\Teachers.aspx.cs",
+              "RelativeToolTip": "StudentMS\\Views\\Admin\\Teachers.aspx.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwIYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:49:28.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Models\\Functions.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Models\\Functions.cs",
+              "ToolTip": "C:\\Users\\mriga\\source\\repos\\StudentMS\\StudentMS\\Models\\Functions.cs",
+              "RelativeToolTip": "StudentMS\\Models\\Functions.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAtwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:35:36.298Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
