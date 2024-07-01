@@ -46,17 +46,18 @@ Welcome to the **Student Management System**! This project is designed to manage
     ```
 
 2. **Install the Requirements**
+    NuGet Packages
+     -**Microsoft.EntityFrameworkCore**
+     - **Microsoft.EntityFrameworkCore.SqlServer**
+     - **Microsoft.EntityFrameworkCore.Tools**
+     - **Microsoft.AspNetCore.Identity**
+     - **Microsoft.AspNetCore.Identity.EntityFrameworkCore**
+     - **Microsoft.Extensions.Logging**
+  
 
-    ```bash
-    cd student-management-system
-    ```
+3. **Run**
 
-3. **Restore Dependencies**
-
-    ```bash
-    dotnet restore
-    ```
-
+     Go to Views > Guest > Home.aspx > Run
 
 ## Usage
 
